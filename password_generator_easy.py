@@ -1,4 +1,4 @@
-#Password Generator Peoject
+#Password Generator Project
 #Easy level - order not randomized :
 
 import random
